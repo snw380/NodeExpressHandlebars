@@ -1,0 +1,24 @@
+{
+  "name": "nodeexpresshandlebars",
+  "version": "1.0.0",
+  "description": "burger logger with MySQL Made by Tyler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snw380/NodeExpressHandlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snw380/NodeExpressHandlebars/issues"
+  },
+  "homepage": "https://github.com/snw380/NodeExpressHandlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}

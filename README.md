@@ -16,10 +16,12 @@
   local Installation: 
   1. clone repo.
   2. establish the tables in sql by coping and pasting the schema. Then followed by the seeds.
-  3. use terminal to cd in the directory and type `npm install`.
+  3. use terminal to cd in the directory and type `npm install`. 
+  ![Screenshot](public/assets/img/Screenshot(73).png)
   4. finally, in terminal type `node server.js`. Enjoy the app!
   ## Usage
-  The power of MySQl commands give us the ability to receive data and send it back. This allows us to display the data in the window in a user frendly fashion.
+  The power of MySQl command's, gives us the ability to receive data, as well as and send it back. This allows us to display the data in the window in a user frendly fashion.<br/>
+  Try it out in [Heroku](https://burger-app-tyler.herokuapp.com/)
   ## License
   This project uses the MIT license.
   ## Contributers
